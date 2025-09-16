@@ -2,7 +2,7 @@
 
 Detecting objects live via webcam with YOLOv8, OpenCV & CVZone
 
-##📖 Overview
+## 📖 Overview
 
 This project captures webcam video and performs real-time object detection. Detected objects are displayed with bounding boxes, class names, and confidence scores. It leverages YOLOv8 for detection, OpenCV for video handling, and CVZone for simplified overlay and visualization.
 
